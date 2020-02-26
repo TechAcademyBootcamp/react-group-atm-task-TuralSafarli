@@ -1,0 +1,26 @@
+
+.page{
+    display: flex;
+    align-items: center;
+    height: 600px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.box{
+   
+    margin: auto;
+    border: solid 2px;
+    border-color: darkred;
+    background-color: wheat;
+    height: 500px;
+    width: 350px;
+    text-align: inherit;
+    padding: 10px;
+    
+    
+}
+#name{
+    margin-top: 60px;
+}

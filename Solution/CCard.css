@@ -1,0 +1,46 @@
+
+.page{
+    display: flex;
+    align-items: center;
+    height: 600px;
+}
+
+.box{
+   
+    margin: auto;
+    border: solid 2px;
+    border-color: darkred;
+    width: 350px;
+    height: 500px;
+    background-color: wheat;
+    
+}
+h1{
+    text-align: center;
+}
+.myform{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 350px;
+    height: 350px;
+    
+    flex-direction: column;
+    justify-content: center;
+
+}
+.formbox{
+
+    width: 350px;
+    height: 350px;
+    display: flex;
+}
+
+.button{
+    text-align: center;
+    padding: 10px 15px;
+    margin: auto;
+    border-radius: 4px;
+    background-color: yellowgreen;
+    display: flex;
+}
